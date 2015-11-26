@@ -1,0 +1,3 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/DBC-Boots/Learning-New-Languages.wiki.git
